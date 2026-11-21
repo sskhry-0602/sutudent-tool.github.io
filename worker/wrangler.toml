@@ -1,0 +1,8 @@
+name = "study-tools-ai"
+main = "src/index.js"
+compatibility_date = "2025-01-01"
+
+[vars]
+# Set this to your exact GitHub Pages origin, e.g. https://YOURNAME.github.io
+ALLOWED_ORIGIN = "https://YOURNAME.github.io"
+MODEL = "gpt-4o-mini"
